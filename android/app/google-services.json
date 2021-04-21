@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573573513907",
+    "firebase_url": "https://weas-12154.firebaseio.com",
+    "project_id": "weas-12154",
+    "storage_bucket": "weas-12154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573573513907:android:9d9378b3caf83a3c",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573573513907-a1bthb70oqnl0rhrsei06iue9hd9g563.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tensorflow.lite.examples.detection",
+            "certificate_hash": "e8b69c50e3628afe3b7e0fbfc6d70ff72562cd8e"
+          }
+        },
+        {
+          "client_id": "573573513907-bvthlaihcsrjk69d411s0h1clptu5dce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbgHpVmEDaPuBQUXJKTkYPhVVJZDO3BVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573573513907-bvthlaihcsrjk69d411s0h1clptu5dce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

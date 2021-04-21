@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TFLiteObjectDetection</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="google_maps_API_key">AIzaSyCkhQVXy1_SJebCCxPE9gedSjBjB1z3s9k</string>
+</resources>
